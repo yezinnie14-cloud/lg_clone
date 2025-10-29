@@ -197,6 +197,7 @@ header>.top{
 }
 #second>p{  
   font-size: 14px;
+  margin: 16px 85px;
 }
 #second > .item-grid {
   width: 80%;
